@@ -1,10 +1,10 @@
 # Hi there, I'm Nikunj 👋  
 
 ## 🚀 About Me  
-- 🌱 I’m currently learning **Java, Python, and Data Structures**  
+- 🌱 I’m currently learning **data mining ,nestjs and nextjs**  
 - 💻 Interested in **Web Development, Machine Learning, and Open Source**  
 - 🔭 I’m working on building cool projects to sharpen my skills  
-- 📫 Reach me at: **your-email@example.com**  
+- 📫 Reach me at: **nikunjpindariya@example.com**  
 
 ---
 
