@@ -1,10 +1,10 @@
 # Hi there, I'm Nikunj 👋  
 
 ## 🚀 About Me  
-- 🌱 I’m currently learning **data mining ,nestjs and nextjs**  
+- 🌱 I’m currently learning **Machine Learing ,ASP.NetCore and OS**  
 - 💻 Interested in **Web Development, Machine Learning, and Open Source**  
 - 🔭 I’m working on building cool projects to sharpen my skills  
-- 📫 Reach me at: **nikunjpindariya1@gmail.com**  
+- 📫 Reach me at: **nikunjpindariya3@gmail.com**  
 
 ---
 
