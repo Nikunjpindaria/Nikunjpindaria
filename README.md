@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **data mining ,nestjs and nextjs**  
 - 💻 Interested in **Web Development, Machine Learning, and Open Source**  
 - 🔭 I’m working on building cool projects to sharpen my skills  
-- 📫 Reach me at: **nikunjpindariya@gmail.com**  
+- 📫 Reach me at: **nikunjpindariya1@gmail.com**  
 
 ---
 
